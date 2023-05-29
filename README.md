@@ -6,7 +6,7 @@
  <h2>Results :</h2>
  <p>
  <img src="/results/zuck.jpg" with="50%" height="50%">
- <img src="/results/me.jpg" with="50%" height="50%">
+<!--  <img src="/results/me.jpg" with="50%" height="50%">
  <img src="/results/bill.jpg" with="50%" height="50%">
- <img src="/results/elon.png" with="50%" height="50%">
+ <img src="/results/elon.png" with="50%" height="50%"> -->
   </p>
